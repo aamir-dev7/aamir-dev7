@@ -1,16 +1,37 @@
-## Hi there 👋
+Aamir Dev7
 
-<!--
-**aamir-dev7/aamir-dev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building at the intersection of AI, products, and software.
 
-Here are some ideas to get you started:
+I like exploring problems, understanding what people actually need, turning ideas into products, and using AI to take things from an idea to something that actually works.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+| 
+Name| Aamir
+Gender| Male
+Age| 15
+Region| India 🇮🇳
+Education| Class 11 Student 🎓
+Interests| AI · Software · Products · Developer Tools · Open Source
+
+Current
+
+- 🔭 Building ModelIQ — a real-time radar for AI models, pricing, capabilities, and benchmarks.
+- 🧭 Exploring AI agents, developer tools, open source, and product systems.
+- 🛠️ Learning by building, testing, breaking things, and improving them.
+
+What I Care About
+
+Product thinking · AI · Open source · Developer tools · Systems · Building
+
+I like building things that are actually useful — not just projects that look impressive.
+
+Around Here
+
+This profile is where I share the projects and ideas I think are worth building and putting out there.
+
+More soon.
+
+---
+
+<sub>Build → test → learn → improve.</sub>
