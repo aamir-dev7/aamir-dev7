@@ -6,19 +6,20 @@ I like exploring problems, understanding what people actually need, turning idea
 
 About Me
 
-| 
-Name| Aamir
-Gender| Male
-Age| 15
-Region| India 🇮🇳
-Education| Class 11 Student 🎓
-Interests| AI · Software · Products · Developer Tools · Open Source
+👤 Name: Aamir
+🚹 Gender: Male
+🎂 Age: 15
+🇮🇳 Region: India
+🎓 Education: Class 11 Student
+🧠 Interests: AI · Software · Products · Developer Tools · Open Source
 
 Current
 
-- 🔭 Building: ModelIQ — a real-time radar for AI models, pricing, capabilities, and benchmarks.
-- 🧭 Exploring: AI agents, developer tools, open source, and product systems.
-- 🛠️ Learning: By building, testing, breaking things, and improving them.
+🔭 Building: ModelIQ — a real-time radar for AI models, pricing, capabilities, and benchmarks.
+
+🧭 Exploring: AI agents, developer tools, open source, and product systems.
+
+🛠️ Learning: By building, testing, breaking things, and improving them.
 
 What I Care About
 
