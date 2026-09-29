@@ -1,4 +1,4 @@
-# 👋 About Me:
+# ✨ About Me:
 Name: Aamir<br>Gender: Male<br>Age: 15<br>Region: India 🇮🇳<br>Education: Class 11 Student 🎓<br>Interests: AI · Software · Products · Developer Tools · Open Source<br><br>🔭 Currently working on: ModelIQ — Application<br>🌱 Currently learning: Python and Large Language Models (LLMs).<br>👯 Open to collaborating on: AI, open-source, and developer tools.<br>💬 Ask me about: AI tools, product ideas, and building Applications.
 
 
